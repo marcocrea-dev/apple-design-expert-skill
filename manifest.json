@@ -1,0 +1,19 @@
+{
+  "name": "apple-design-expert-skill",
+  "description": "Apple's 8 design principles for UX evaluation and interface critique. Use when: design review, UI feedback, user experience, interface critique, Apple HIG compliance, interaction design, usability evaluation, or whenever design is in decision.",
+  "version": "1.0.0",
+  "author": { "name": "marcocrea-dev" },
+  "homepage": "https://github.com/marcocrea-dev/apple-design-expert-skill",
+  "repository": "https://github.com/marcocrea-dev/apple-design-expert-skill",
+  "license": "MIT",
+  "keywords": ["apple", "design", "ux", "hig", "ui-review", "design-principles"],
+  "skills": [
+    {
+      "name": "apple-design-principles-expert",
+      "description": "Apple's 8 design principles for UX evaluation and interface critique. Use when: design review, UI feedback, user experience, interface critique, Apple HIG compliance, interaction design, usability evaluation, or whenever design is in decision.",
+      "source": ".",
+      "license": "MIT",
+      "keywords": ["apple", "design", "ux", "hig", "ui-review", "interaction-design", "design-principles"]
+    }
+  ]
+}
