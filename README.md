@@ -55,15 +55,15 @@ npx playbooks add skill marcocrea-dev/apple-design-expert-skill
 
 | Pillar | File |
 |--------|------|
-| Purpose (Intention) | [references/purpose-intention.md](references/purpose-intention.md) |
-| Agency (Control) | [references/agency-control.md](references/agency-control.md) |
-| Responsibility (Trust) | [references/responsibility-trust.md](references/responsibility-trust.md) |
-| Familiarity (Intuition) | [references/familiarity-intuition.md](references/familiarity-intuition.md) |
-| Flexibility (Adaptability) | [references/flexibility-adaptability.md](references/flexibility-adaptability.md) |
-| Simplicity (Clarity) | [references/simplicity-clarity.md](references/simplicity-clarity.md) |
-| Craft (Quality) | [references/craft-quality.md](references/craft-quality.md) |
-| Delight (Humanity) | [references/delight-humanity.md](references/delight-humanity.md) |
-| Design Review Checklist | [references/design-review-checklist.md](references/design-review-checklist.md) |
+| Purpose (Intention) | [apple-design-principles-expert/references/purpose-intention.md](apple-design-principles-expert/references/purpose-intention.md) |
+| Agency (Control) | [apple-design-principles-expert/references/agency-control.md](apple-design-principles-expert/references/agency-control.md) |
+| Responsibility (Trust) | [apple-design-principles-expert/references/responsibility-trust.md](apple-design-principles-expert/references/responsibility-trust.md) |
+| Familiarity (Intuition) | [apple-design-principles-expert/references/familiarity-intuition.md](apple-design-principles-expert/references/familiarity-intuition.md) |
+| Flexibility (Adaptability) | [apple-design-principles-expert/references/flexibility-adaptability.md](apple-design-principles-expert/references/flexibility-adaptability.md) |
+| Simplicity (Clarity) | [apple-design-principles-expert/references/simplicity-clarity.md](apple-design-principles-expert/references/simplicity-clarity.md) |
+| Craft (Quality) | [apple-design-principles-expert/references/craft-quality.md](apple-design-principles-expert/references/craft-quality.md) |
+| Delight (Humanity) | [apple-design-principles-expert/references/delight-humanity.md](apple-design-principles-expert/references/delight-humanity.md) |
+| Design Review Checklist | [apple-design-principles-expert/references/design-review-checklist.md](apple-design-principles-expert/references/design-review-checklist.md) |
 
 ## Resources
 
