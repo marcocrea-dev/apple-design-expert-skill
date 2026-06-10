@@ -1,5 +1,5 @@
 ---
-name: apple-design-expert-skill
+name: apple-design-principles-expert
 description: Apple's 8 design principles for UX evaluation and interface critique. Use when: design review, UI feedback, user experience, interface critique, Apple HIG compliance, interaction design, usability evaluation, or whenever design is in decision.
 license: MIT
 metadata:
